@@ -11,9 +11,8 @@
 
 ## 📌 About Me  
 Hi! I’m **Aylin Rodriguez**, a financial engineer with a passion for **data, technology, and problem-solving**. I'm currently sharpening my skills in **Machine Learning, Python, and SQL** through an intensive bootcamp. 
-Interested in xpanding my expertise in **data-driven solutions**.  
 
-I find it fascinating how **data and automation** can drive smarter decision-making, particularly in **finance and business analytics**. 
+I find it fascinating how **data and automation** can drive smarter decision-making, particularly in **finance and business analytics**. Interested in expanding my expertise in **data-driven solutions**.  
 
 ## 🎯 My Goals  
 - Dive deeper into **AI applications in finance**  
