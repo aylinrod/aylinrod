@@ -1,10 +1,25 @@
 
-## Hi, I'm Aylin Rodriguez⚡
+## Hi, I'm Aylin ⚡  
 
-## I'm currently learning
-- Machine Learning & Data Science 
-- Python
-- SQL
+### 📊 Financial Engineer  
+💡 Passionate about the intersection of finance and technology  
+
+## 🌱 I'm Currently Learning  
+- Machine Learning & Data Science  
+- Python  
+- Microsoft SQL Server  
+
+## 📌 About Me  
+Hi! I’m **Aylin Rodriguez**, a financial engineer with a passion for **data, technology, and problem-solving**. I'm currently sharpening my skills in **Machine Learning, Python, and SQL** through an intensive bootcamp, expanding my expertise in **data-driven solutions**.  
+
+I find it fascinating how **data and automation** can drive smarter decision-making, particularly in **finance and business analytics**. With experience in **Python and R**, I love applying programming and statistical modeling to solve real-world challenges.  
+
+## 🎯 My Goals  
+- Dive deeper into **AI applications in finance**  
+- Develop **data-driven financial models**  
+- Work on **real-world machine learning projects**  
+
+🚀 **Always eager to learn, innovate, and make an impact!** 🚀  
 
 
 <!--
